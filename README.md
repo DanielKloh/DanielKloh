@@ -10,7 +10,7 @@ Em paralelo, estudando para certificação AZ-204 Microsoft Azure Developer
 
 #### 📫 Contate-me
 
-- 🔭 Você pode me encontrar no  Linkedin [www.linkedin.com/in/danielkloh](https://www.linkedin.com/in/danielkloh/)
+- 🔭 Você pode me encontrar no  Linkedin [www.linkedin.com/in/danielkloh](https://www.linkedin.com/in/daniel-kloh-47677124a/)
 - 💬 Meu site pessoal: http://rafaelsuarez.somee.com/
 - Ou mande um email: <a href="mailto:danielkloh06@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 #### Linguagens de programação, tecnologias e ferramentas
