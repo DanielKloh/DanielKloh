@@ -20,9 +20,9 @@
 <hr>
 <div align="center">
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielkloh&show_icons=true&locale=en&layout=compact" alt="suarezrafael" />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielkloh&show_icons=true&locale=en&layout=compact" alt="daniel" />
 </p>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=danielkloh&count_private=true&show_icons=true&theme=dracula&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielkloh&" alt="suarezrafael" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielkloh&" alt="daniel" /></p> 
